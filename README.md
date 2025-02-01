@@ -1,4 +1,4 @@
-# HR-Attrition-Analysis
+# Retention Radar : HR Attrition Insights
 Capstone project analyzing HR attrition data using Power BI, DAX, and Power Query.
 
 This project explores HR attrition data to uncover key insights and provide actionable recommendations. It was completed as part of the Machinfy Professional Data Analytics Bootcamp.
