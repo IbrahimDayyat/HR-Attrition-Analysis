@@ -46,4 +46,19 @@ High employee attrition is costly — in recruitment, training, and lost institu
 
 ---
 
+---
+
+## 🎥 Project Walkthrough
+
+👉 [Watch the full dashboard walkthrough](https://tinyurl.com/4wbkhzmp)
+
+---
+
+## 👤 Author
+
+**Ibrahim Dayyat** — Management Consultant & Data Analytics Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a2463?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-dayyat-a6119947)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ecc71?style=flat-square&logo=databricks&logoColor=white)](https://www.datascienceportfol.io/ibrahimdayyat)
+
 ## 📁 Repository Structure
